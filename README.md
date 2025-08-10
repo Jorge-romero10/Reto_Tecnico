@@ -1,6 +1,6 @@
 Pequeña aplicación que permite registrar las visitas que llegan a una oficina.
 
-La aplicación debe permitir:
+La aplicación contiene:
 
 ● Ingresar nombre completo del visitante, documento, motivo de
 la visita y fecha/hora de entrada.
